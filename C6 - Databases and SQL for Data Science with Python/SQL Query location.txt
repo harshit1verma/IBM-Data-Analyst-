@@ -1,2 +1,0 @@
-All sql queries and project performed on IBM Db2-cf with gmail id harshitforclashofclans@gmail.com pass Tempibm1
-
